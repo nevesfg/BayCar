@@ -1,0 +1,57 @@
+
+body{
+    background-size: cover;
+    min-width: 378px;
+    padding: 5px;
+}
+table{
+    border: none;
+}
+thead{
+    border-style: none;
+}
+.scroll{
+    max-height: 80%;
+    overflow-x: scroll;
+    scrollbar-width: 4px;
+}
+.bg-red{
+    background-color: rgb(177, 13, 13);
+}
+.text-red{
+    color: rgb(245, 241, 241);
+    text-decoration: none;
+    background-color: rgb(177, 13, 13);
+}
+.border-red{
+    border-color: rgb(177, 13, 13);
+}
+.text-red:hover{
+    color: rgb(177, 13, 13);
+    background-color: white;
+}
+.bg-red-gradient{
+    background:  linear-gradient(-90deg, #860b0b, #8f0909,#8f0d0d, #bb1f1f);
+}
+.border-form{
+    border: 2px solid rgb(177, 13, 13);
+}
+.nav-link:hover{
+    border-bottom: 1px solid white;
+}
+@media (max-width: 500px) {
+    .nav-line{
+        width: 40%;
+    }
+}
+@media (min-width: 500px) {
+    .nav-line{
+        width: 100%;
+    }
+}
+.bg-login{
+    backdrop-filter: brightness(50%);
+}
+.btn-lg{
+    color: #860b0b;
+}

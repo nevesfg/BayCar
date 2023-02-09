@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/car/addCar.jsp" value="file://$PROJECT_DIR$/src/main/webapp/car" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/client/viewClient.jsp" value="file://$PROJECT_DIR$/src/main/webapp/client" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/home.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/olderCar/editOlderCar.jsp" value="file://$PROJECT_DIR$/src/main/webapp/olderCar" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/olderCar/viewOlderCar.jsp" value="file://$PROJECT_DIR$/src/main/webapp/olderCar" />
+      </map>
+    </option>
+  </component>
+</project>
