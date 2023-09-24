@@ -1,5 +1,7 @@
 Baycar - Plataforma de Venda e Aluguel de Carros
 
+## Projeto desenvolvido utilizando a linguagem JAVA, destinado a matéria de Linguagem de Programação Orientada a Objetos
+
 Objetivo
 - O Baycar é um software criado para realizar e gerenciar a venda de carros novos,
 usados e a locação de carros, a fim de criar um sistema organizado e eficiente para que os funcionários saibam onde estão e quais são as informações para o devido objetivo de negócio,
